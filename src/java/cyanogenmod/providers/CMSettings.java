@@ -1012,6 +1012,12 @@ public final class CMSettings {
          */
         public static final String QS_SHOW_BRIGHTNESS_SLIDER = "qs_show_brightness_slider";
 
+	/**
+	 * Fastly enable mobile data without showing data usage summary.
+	 * @hide
+	 */
+	public static final String QS_FAST_DATA_ENABLE = "qs_fast_data_enable";
+
         /**
          * List of QS tile names
          * @hide

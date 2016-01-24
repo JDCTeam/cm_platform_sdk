@@ -199,6 +199,8 @@ public class CMSettingsProvider extends ContentProvider {
                     CMSettings.Secure.STATS_COLLECTION);
             secureToCmSettingsMap.put(Settings.Secure.QS_SHOW_BRIGHTNESS_SLIDER,
                     CMSettings.Secure.QS_SHOW_BRIGHTNESS_SLIDER);
+	    secureToCmSettingsMap.put(Settings.Secure.QS_FAST_DATA_ENABLE,
+		    CMSettings.Secure.QS_FAST_DATA_ENABLE);	
             secureToCmSettingsMap.put(Settings.Secure.QS_TILES,
                     CMSettings.Secure.QS_TILES);
             secureToCmSettingsMap.put(Settings.Secure.QS_USE_MAIN_TILES,
