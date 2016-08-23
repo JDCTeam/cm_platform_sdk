@@ -25,6 +25,6 @@
     <color name="dexopt_text_primary">#043E5E</color>
     <color name="dexopt_text_secondary">#03314b</color>
     <color name="dexopt_logo">#212121</color>
-    <color name="dexopt_device_bg">@color/color</color>
+    <color name="dexopt_device_bg">#ffffff</color>
     <color name="dexopt_obscured_bg">@color/cm_cyan</color>
 </resources>
