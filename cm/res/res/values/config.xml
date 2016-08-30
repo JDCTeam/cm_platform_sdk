@@ -67,7 +67,7 @@
     <integer name="config_maxColorTemperature">10000</integer>
 
     <bool name="config_defaultAutoContrast">false</bool>
-    <bool name="config_defaultAutoOutdoorMode">true</bool>
+    <bool name="config_defaultAutoOutdoorMode">false</bool>
     <bool name="config_defaultColorEnhancement">true</bool>
     <bool name="config_defaultCABC">true</bool>
 
